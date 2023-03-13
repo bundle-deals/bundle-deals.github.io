@@ -24,6 +24,8 @@ Gaming chairs are designed with gamers in mind, offering enhanced comfort, suppo
 
 ## Factors to Consider When Choosing a Gaming Chair
 
+
+
 ### Ergonomics
 
 One of the most crucial factors to consider when choosing a gaming chair is its ergonomic design. Look for a chair that supports your natural sitting posture, with adjustable lumbar support, headrest, and armrests. The chair should allow you to sit with your feet flat on the ground, knees bent at a 90-degree angle, and your back straight.
