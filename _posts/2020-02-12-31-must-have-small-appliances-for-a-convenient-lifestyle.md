@@ -3,13 +3,14 @@ layout: post
 title: 10 Must-Have Small Appliances for a Convenient Lifestyle
 image: /assets/images/best-kitchen-appliances.jpeg
 categories:
-  - Groceries
-  
-
-toc: true
-beforetoc: Discover the top 10 small appliances that can simplify your routine tasks and make your life more comfortable. From coffee makers to air fryers, these must-have appliances can save you time and effort
-author: killcreek
+  - Office
+  - Outdoor
 rating: 5
+toc: true
+author: killcreek
+beforetoc: Discover the top 10 small appliances that can simplify your routine
+  tasks and make your life more comfortable. From coffee makers to air fryers,
+  these must-have appliances can save you time and effort
 ---
 
 Small appliances have become an essential part of modern life. They can help you save time and effort, simplify your routine tasks, and make your life more comfortable. With so many options available in the market, it can be overwhelming to choose the right one for your needs. That's why we've compiled a list of the top 10 small appliances that can make your life easier.
