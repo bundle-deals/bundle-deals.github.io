@@ -5,7 +5,8 @@ image: /assets/images/best-kitchen-appliances.jpeg
 categories:
   - Office
   - Outdoor
-rating: 5
+  - Accessories
+rating: "4"
 toc: true
 author: killcreek
 beforetoc: Discover the top 10 small appliances that can simplify your routine
