@@ -21,11 +21,14 @@ comments: false
       .then((response) => response.json())
       .then(
         (response) =>
-          (document.getElementById("demo").innerHTML = JSON.stringify(response))
+          (document.getElementById("demo").innerHTML = JSON.stringify(
+            response.today
+          ))
+        //   (document.getElementById("demo").innerHTML = JSON.HTML(response) )
       );
   </script>
 
-  <h2 id="demo"></h2>
+  <button id="demo" type="button" class="btn btn-danger btn-lg"></button>
 
   <p>
     <a href="https://en.wikipedia.org/wiki/Wordle">Wordle</a> is a popular
