@@ -16,17 +16,21 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Featured", name: "image", widget: "image" }
-      - { label: "Category", name: "categories", widget: "select", multiple: true , options: ["Kitchen","Office","Gaming","Outdoor","" ] }
-      - { label: "Rating", name: "rating", widget: "select", multiple: true , options: ["1","2","3","4","5" ] }
+      - {
+          label: "Category",
+          name: "categories",
+          widget: "select",
+          multiple: true,
+          options: ["Kitchen", "Office", "Gaming", "Outdoor", "Accessories"],
+        }
+      - {
+          label: "Rating",
+          name: "rating",
+          widget: "select",
+          multiple: false,
+          options: ["1", "2", "3", "4", "5"],
+        }
       - { label: "TOC", name: "toc", widget: "boolean", default: true }
       - { label: "Author", name: "author", widget: "string", default: Ruby }
-      - { label: "BeforeTOC", name: "beforetoc", widget: "string"}
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      
-
-      
-     
-      
- 
-      
-      
+      - { label: "BeforeTOC", name: "beforetoc", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
