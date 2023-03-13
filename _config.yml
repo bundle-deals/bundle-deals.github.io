@@ -1,7 +1,7 @@
 # Site
 name: "Bundle Deals"
 title: "Bundle Deals "
-description: "Save big on all the top deals. Up to 90% off deals, coupons & discount vouchers"
+description: "Save big on all the top bundles. Up to 90% off deals, coupons & discount vouchers"
 logo: "assets/images/logo.png"
 favicon: "assets/images/icon.png"
 baseurl: ""
@@ -11,7 +11,7 @@ disqus: ""
 mailchimp-list: ""
 include: ["_pages"]
 permalink: /:title/
-email: press@internetdailydeals.com
+email: press@bundldeals.xyz
 formsfree: xwkalnqd
 
 # Authors
