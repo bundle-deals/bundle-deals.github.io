@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bundle Deals </title>
-    <description>Save big on all the top deals. Up to 90% off deals, coupons &amp; discount vouchers</description>
+    <description>Save big on all the top bundles. Up to 90% off deals, coupons &amp; discount vouchers</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Mar 2023 23:12:15 +0800</pubDate>
-    <lastBuildDate>Mon, 13 Mar 2023 23:12:15 +0800</lastBuildDate>
+    <pubDate>Mon, 13 Mar 2023 23:21:53 +0800</pubDate>
+    <lastBuildDate>Mon, 13 Mar 2023 23:21:53 +0800</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
