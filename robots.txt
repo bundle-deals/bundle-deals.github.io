@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: {{site.baseurl}}/sitemap.xml
+Sitemap: https://bundledeals.xyz/sitemap.xml
