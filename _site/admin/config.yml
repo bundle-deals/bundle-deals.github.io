@@ -16,14 +16,12 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Featured", name: "image", widget: "image" }
-      - { label: "URL", name: "permalink", widget: "string" }
-      - { label: "Category", name: "categories", widget: 'string' }
+      - { label: "Category", name: "categories", widget: "select", multiple: true , options: ["Kitchen","Office","Gaming","Outdoor","" ] }
       - { label: "Rating", name: "rating", widget: "select", multiple: true , options: ["1","2","3","4","5" ] }
       - { label: "TOC", name: "toc", widget: "boolean", default: true }
       - { label: "Author", name: "author", widget: "string", default: Ruby }
       - { label: "BeforeTOC", name: "beforetoc", widget: "string"}
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Shop URL', name: 'shop', widget: 'string' }
       
 
       
