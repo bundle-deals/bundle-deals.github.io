@@ -74,7 +74,6 @@ sass:
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 url: "https://bundledeals.xyz"
 
-exclude :
- - admin
+
 
  
