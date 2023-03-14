@@ -8,28 +8,8 @@ comments: false
 ---
 
 <div class="list-authors mt-5">
-  <script>
-    const options = {
-      method: "GET",
-      headers: {
-        "X-RapidAPI-Key": "73024bcb05msh1c9714810f3c279p172a3ajsn71150687ab59",
-        "X-RapidAPI-Host": "wordle-answers-solutions.p.rapidapi.com",
-      },
-    };
-
-    fetch("https://wordle-answers-solutions.p.rapidapi.com/today", options)
-      .then((response) => response.json())
-      .then(
-        (response) =>
-          (document.getElementById("demo").innerHTML = JSON.stringify(
-            response.today
-          ))
-        //   (document.getElementById("demo").innerHTML = JSON.HTML(response) )
-      );
-  </script>
-
   <button id="demo" type="button" class="btn btn-danger btn-lg"></button>
-
+  <p>{{ "Today" | date: "%b %d, %y" }}</p>
   <p>
     <a href="https://en.wikipedia.org/wiki/Wordle">Wordle</a> is a popular
     online word-guessing game that has been sweeping the internet by storm.
@@ -109,3 +89,23 @@ comments: false
     chances of guessing the target word within six attempts.
   </p>
 </div>
+
+<script>
+  const options = {
+    method: "GET",
+    headers: {
+      "X-RapidAPI-Key": "73024bcb05msh1c9714810f3c279p172a3ajsn71150687ab59",
+      "X-RapidAPI-Host": "wordle-answers-solutions.p.rapidapi.com",
+    },
+  };
+
+  fetch("https://wordle-answers-solutions.p.rapidapi.com/today", options)
+    .then((response) => response.json())
+    .then(
+      (response) =>
+        (document.getElementById("demo").innerHTML = JSON.stringify(
+          response.today
+        ))
+      //   (document.getElementById("demo").innerHTML = JSON.HTML(response) )
+    );
+</script>
