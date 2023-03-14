@@ -43,7 +43,7 @@ An electric kettle can boil water in minutes, making it perfect for making tea, 
 
 
 
-**B﻿est Electric Kettles**
+**T﻿op Pick**
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "bundle860d-20";
