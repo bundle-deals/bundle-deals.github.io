@@ -21,6 +21,7 @@ group :jekyll_plugins do
     gem 'rouge'
     gem 'jekyll-admin'
     gem 'github-pages'
+    gem 'jekyll-compress-images'
    
 end
 
