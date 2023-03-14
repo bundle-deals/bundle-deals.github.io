@@ -41,7 +41,7 @@ A food processor can chop, slice, shred, and puree ingredients. It can be used t
 
 An electric kettle can boil water in minutes, making it perfect for making tea, coffee, or hot cocoa. Some models even have different temperature settings for different types of tea or coffee. Plus, it's safer and more energy-efficient than boiling water on the stove. 
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=bundle86-20&language=en_US&marketplace=amazon&region=US&placement=B08PP48979&asins=B08PP48979&linkId=da12ed71d12bc00213d110e22ba143b3&show_border=true&link_opens_in_new_window=true"></iframe>
+<a href="https://www.amazon.com/COSORI-Electric-Stainless-Indicator-Protection/dp/B08PP48979?pd_rd_w=aczN5&content-id=amzn1.sym.309d45c5-3eba-4f62-9bb2-0acdcf0662e7&pf_rd_p=309d45c5-3eba-4f62-9bb2-0acdcf0662e7&pf_rd_r=T3D3R1W96Z1S68M0F6PJ&pd_rd_wg=JLAxE&pd_rd_r=fa4c1699-edb6-4ed3-a5df-4a565d21e0bd&pd_rd_i=B0BY9SCZT9&th=1&linkCode=li2&tag=bundle86-20&linkId=e28a13d3036dfe7ae45cbbdae4099d5b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08PP48979&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=bundle86-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=bundle86-20&language=en_US&l=li2&o=1&a=B08PP48979" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ### 8. Handheld Vacuum
 
