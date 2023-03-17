@@ -85,9 +85,16 @@ amzn_assoc_linkid = "a4a66e7ee98c7dbeb2ceabe38fc28dd1";
 
 A desk pad is a stylish office desk accessory for him. It can add a touch of sophistication to his workspace while also protecting his desk surface. Look for a desk pad made of leather or a faux leather material for a sleek look.
 {space}{space}
+
+
+
+
+
 ### A Pen Holder
 
 A pen holder is another stylish office desk accessory for him. It can help keep his pens and pencils organized while also adding a decorative touch to his desk. Look for a pen holder made of a durable material such as metal or ceramic.
+
+
 
 
 
@@ -112,6 +119,10 @@ amzn_assoc_linkid = "9b5e1d45907db1feb4002394c4155390";
 ### A Decorative Globe
 
 A decorative globe is a unique and stylish office desk accessory for him. It can add a touch of sophistication and worldly charm to his workspace. Look for a globe made of high-quality materials such as brass or wood.
+
+
+
+
 
 ### A Desk Sculpture
 
