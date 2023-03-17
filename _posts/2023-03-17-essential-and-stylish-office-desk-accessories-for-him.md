@@ -89,6 +89,10 @@ A desk pad is a stylish office desk accessory for him. It can add a touch of sop
 
 A pen holder is another stylish office desk accessory for him. It can help keep his pens and pencils organized while also adding a decorative touch to his desk. Look for a pen holder made of a durable material such as metal or ceramic.
 
+<﻿br/>
+
+<﻿br/>
+
 ### A Desk Clock
 
 A desk clock is a stylish and practical office desk accessory for him. It can help him keep track of time and stay on schedule. Look for a desk clock with a simple, classic design that will complement his workspace.
