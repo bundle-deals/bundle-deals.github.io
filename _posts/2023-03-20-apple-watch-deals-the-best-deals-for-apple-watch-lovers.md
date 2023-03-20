@@ -54,6 +54,8 @@ The Apple Watch SE is a more affordable option that still offers many of the sam
 
 ![Apple Watch Deals](/assets/images/apple_watch_se.jpg "Apple Watch SE")
 
+
+
 <script type="text/javascript">
 amzn_assoc_tracking_id = "bundle86-20";
 amzn_assoc_ad_mode = "manual";
@@ -92,7 +94,7 @@ amzn_assoc_linkid = "62335127018cff14dbcd76722d5130ff";
 
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-> > **A﻿lso Read: [Best Gaming Chairs for Ultimate Comfort and Gaming Experience](https://bundledeals.xyz/best-gaming-chairs-for-ultimate-comfort-and-gaming-experience/)**
+> **A﻿lso Read: [Best Gaming Chairs for Ultimate Comfort and Gaming Experience](https://bundledeals.xyz/best-gaming-chairs-for-ultimate-comfort-and-gaming-experience/)**
 
 ## Conclusion
 
