@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: best-gaming-headset-guide
+permalink: best-gaming-headset
 title: "Choosing the Best Gaming Headset: A Comprehensive Guide"
 image: /assets/images/hyperx-cloud-2-wireless-red.jpg
 categories:
