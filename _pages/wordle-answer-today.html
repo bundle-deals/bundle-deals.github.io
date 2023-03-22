@@ -8,9 +8,18 @@ comments: false
 ---
 
 <div class="list-authors mt-5">
-  The Wordle answer for today
-  <strong>{{ "Today" | date: "%b %d" }}</strong> is
-  <h3 id="demo"></h3>
+  <div class="center-block" id="spoiler">
+    The Wordle answer for today
+    <strong>{{ "Today" | date: "%b %d" }}</strong> is
+    <br />
+    <button type="button" class="btn btn-danger rounded-lg" id="word">
+      word...
+    </button>
+  </div>
+  <!-- <br />  
+  <input type="date" class="center-block" id="dateinput" min="2021-06-19" />
+  <br /> -->
+  <br />
 
   <p>
     <a href="https://en.wikipedia.org/wiki/Wordle">Wordle</a> is a popular
@@ -92,22 +101,5 @@ comments: false
   </p>
 </div>
 
-<script>
-  const options = {
-    method: "GET",
-    headers: {
-      "X-RapidAPI-Key": "73024bcb05msh1c9714810f3c279p172a3ajsn71150687ab59",
-      "X-RapidAPI-Host": "wordle-answers-solutions.p.rapidapi.com",
-    },
-  };
-
-  fetch("https://wordle-answers-solutions.p.rapidapi.com/today", options)
-    .then((response) => response.json())
-    .then(
-      (response) =>
-        (document.getElementById("demo").innerHTML = JSON.stringify(
-          response.today
-        ))
-      //   (document.getElementById("demo").innerHTML = JSON.HTML(response) )
-    );
-</script>
+<script src="{{ site.baseurl }}/assets/js/words.js"></script>
+<script src="{{ site.baseurl }}/assets/js/wordle.js"></script>

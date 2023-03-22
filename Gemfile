@@ -22,6 +22,10 @@ group :jekyll_plugins do
     gem 'jekyll-admin'
     gem 'github-pages'
     gem 'jekyll-compress-images'
+  
+
+   
+    
    
 end
 
