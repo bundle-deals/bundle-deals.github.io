@@ -54,7 +54,23 @@ amzn_assoc_linkid = "7eb9c70c40539c08a24e82116ccbf840";
 
 ### 2. Corsair K100 RGB Optical-Mechanical Gaming Keyboard
 
+![Best Keyboards of 2023](/assets/images/corsair-k100-rgb-optical.jpg "Corsair K100 RGB")
+
 The Corsair K100 RGB Optical-Mechanical Gaming Keyboard is another excellent option for gamers. It features Corsair’s new OPX optical-mechanical switches, delivering lightning-fast response times. It also boasts per-key RGB lighting, six programmable macro keys, and dedicated media controls.
+
+<script type="text/javascript">
+amzn_assoc_tracking_id = "bundle86-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B08WCB916J";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "ef2573981697d5f08307c7b28480c466";
+</script>
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ### 3. Ducky One 2 Mini RGB Mechanical Keyboard
 
