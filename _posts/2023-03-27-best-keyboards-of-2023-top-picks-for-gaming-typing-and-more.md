@@ -34,6 +34,8 @@ Our team of experts used each keyboard for an extended period, typing on them an
 
 ### 1. Logitech G915 TKL Tenkeyless Lightspeed Wireless RGB Mechanical Gaming Keyboard
 
+![Best Keyboards of 2023](/assets/images/logitech-g915-tkl-featured.webp "Logitech G915 TKL")
+
 If you’re a gamer looking for a high-performance keyboard, the Logitech G915 TKL Tenkeyless Lightspeed Wireless RGB Mechanical Gaming Keyboard is our top pick. This keyboard features low-profile GL mechanical switches, delivering a smooth, tactile typing experience. It also boasts customizable RGB lighting and programmable macro keys, making it a great choice for competitive gamers.
 
 ### 2. Corsair K100 RGB Optical-Mechanical Gaming Keyboard
