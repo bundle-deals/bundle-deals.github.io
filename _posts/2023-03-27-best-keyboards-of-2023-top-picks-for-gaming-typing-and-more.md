@@ -38,6 +38,20 @@ Our team of experts used each keyboard for an extended period, typing on them an
 
 If you’re a gamer looking for a high-performance keyboard, the Logitech G915 TKL Tenkeyless Lightspeed Wireless RGB Mechanical Gaming Keyboard is our top pick. This keyboard features low-profile GL mechanical switches, delivering a smooth, tactile typing experience. It also boasts customizable RGB lighting and programmable macro keys, making it a great choice for competitive gamers.
 
+<script type="text/javascript">
+amzn_assoc_tracking_id = "bundle86-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B08KTPST1R";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "7eb9c70c40539c08a24e82116ccbf840";
+</script>
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
 ### 2. Corsair K100 RGB Optical-Mechanical Gaming Keyboard
 
 The Corsair K100 RGB Optical-Mechanical Gaming Keyboard is another excellent option for gamers. It features Corsair’s new OPX optical-mechanical switches, delivering lightning-fast response times. It also boasts per-key RGB lighting, six programmable macro keys, and dedicated media controls.
