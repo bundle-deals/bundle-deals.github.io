@@ -75,7 +75,7 @@ The HP Spectre x360 is a versatile 2-in-1 laptop that's perfect for remote work.
 
 ### 5. Asus ZenBook UX425
 
-![Best Laptop for Working from Home: Best Asus ZenBook UX425](/assets/images/asus-zenbook-ux425.webp)
+![Best Laptop for Working from Home: Best Asus ZenBook UX425](/assets/images/asus-zenbook-14-2020-05.webp)
 
 The Asus ZenBook UX425 is a sleek and lightweight laptop that's perfect for remote work. It features an Intel Core i7 processor, 16GB of RAM, and a 512GB SSD, making it a powerful machine that can handle most tasks. Its battery life is also impressive, lasting up to 12 hours on a single charge.
 
