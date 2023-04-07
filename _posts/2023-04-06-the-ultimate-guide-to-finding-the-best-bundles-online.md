@@ -4,7 +4,7 @@ permalink: the-ultimate-guide-to-finding-the-best-bundles-online
 title: The Ultimate Guide to Finding the Best Bundles Online
 image: /assets/images/bundle-pricing.jpg
 categories:
-  - Accessories
+  - Tips
 rating: "5"
 toc: true
 author: Killcreek
