@@ -22,7 +22,8 @@ collections:
           name: "categories",
           widget: "select",
           multiple: true,
-          options: ["Kitchen", "Office", "Gaming", "Outdoor", "Accessories"],
+          options:
+            ["Kitchen", "Office", "Gaming", "Outdoor", "Accessories", "Tips"],
         }
       - {
           label: "Rating",
