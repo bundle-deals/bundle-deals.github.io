@@ -1,10 +1,10 @@
 ---
 layout: post
-permalink: the-pros-and-cons-of-buying-bundles-vs-individual-products
+permalink: buying-bundles-vs-individual-products
 title: The Pros and Cons of Buying Bundles vs. Individual Products
 image: /assets/images/bundle-pricing-image.png
 categories:
-  - Accessories
+  - Tips
 rating: "2"
 toc: true
 author: Killcreek
