@@ -66,7 +66,9 @@ The Home Entertainment Bundle is designed for those who love to binge-watch thei
 
 ![Tech Bundles for Gamers and Techies](/assets/images/teqz_-gaming-setup-1024x684.webp "Featured Setup by Teqz")
 
-I﻿mage by : [Featured Setup by Teqz](https://voltcave.com/setup/teqz/)
+Featured Setup by: [Teqz](https://voltcave.com/setup/teqz/)
+
+
 
 ## How to Choose the Right Bundle for You
 
