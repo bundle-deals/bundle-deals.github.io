@@ -1,0 +1,43 @@
+# config.yml
+
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: "assets/images"
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "_posts"
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: true
+    fields: # The fields for each document, usually in front matter
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "URL", name: "permalink", widget: "string", required: false }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Featured", name: "image", widget: "image" }
+      - {
+          label: "Category",
+          name: "categories",
+          widget: "select",
+          multiple: true,
+          options:
+            ["Kitchen", "Office", "Gaming", "Outdoor", "Accessories", "Tips"],
+        }
+      - {
+          label: "Rating",
+          name: "rating",
+          widget: "select",
+          multiple: false,
+          options: ["1", "2", "3", "4", "5"],
+        }
+      - { label: "TOC", name: "toc", widget: "boolean", default: true }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: Killcreek,
+        }
+      - { label: "BeforeTOC", name: "beforetoc", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
