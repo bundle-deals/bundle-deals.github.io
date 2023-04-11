@@ -24,39 +24,12 @@ The first essential office desk accessory for him is a comfortable chair. A good
 ### A Functional Desk
 
 The next essential office desk accessory for him is a functional desk. A desk with ample space for a computer, papers, and other essentials can make a huge difference in his work productivity. Look for a desk with built-in storage options and a durable surface that can withstand everyday wear and tear.
-
-<script type="text/javascript">
-amzn_assoc_tracking_id = "bundle860d-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B0B77P5JFP";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "21e14bd761726263a6587d8f3f716545";
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
+ 
 ### Good Lamp
 
 A good lamp is another essential office desk accessory for him. Proper lighting can help reduce eye strain and make it easier to focus on work. Look for a lamp with adjustable brightness and a flexible neck that can be positioned for optimal lighting.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "bundle860d-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B0BS17GYRM";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "238c14ac0a26d7cf869a210a50dd65b0";
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
+ 
 ### A Desktop Organizer
 
 A desktop organizer is a practical office desk accessory for him. It can help keep his desk clutter-free and his work organized. Look for an organizer with multiple compartments and drawers to store everything from pens and pencils to paperclips and sticky notes.
@@ -65,19 +38,7 @@ A desktop organizer is a practical office desk accessory for him. It can help ke
 
 A wrist rest is a small but essential office desk accessory for him. It can help prevent wrist fatigue and discomfort while typing. Look for a wrist rest with comfortable foam padding and a non-slip base.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "bundle860d-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01M11FLUJ";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "a4a66e7ee98c7dbeb2ceabe38fc28dd1";
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+ 
 
 ## Stylish Office Desk Accessories for Him
 
@@ -95,21 +56,7 @@ A pen holder is another stylish office desk accessory for him. It can help keep 
 ### A Desk Clock
 
 A desk clock is a stylish and practical office desk accessory for him. It can help him keep track of time and stay on schedule. Look for a desk clock with a simple, classic design that will complement his workspace.
-
-<script type="text/javascript">
-amzn_assoc_tracking_id = "bundle860d-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B0997ZSZLV";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "9b5e1d45907db1feb4002394c4155390";
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
+ 
 ### A Decorative Globe
 
 A decorative globe is a unique and stylish office desk accessory for him. It can add a touch of sophistication and worldly charm to his workspace. Look for a globe made of high-quality materials such as brass or wood.

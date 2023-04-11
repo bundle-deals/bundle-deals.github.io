@@ -31,22 +31,7 @@ An air fryer is a healthy alternative to deep-fried foods. It uses hot air to co
 
 **Top PIck**
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "bundle860d-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B0936FGLQS";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "1be2ff14755f3b38dfc79c7099f73d94";
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-
-
+ 
 
 
 ### 3. Blender
@@ -81,37 +66,9 @@ An electric kettle can boil water in minutes, making it perfect for making tea, 
 
 
 
-**T﻿op Pick**
+**Top Pick**
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "bundle860d-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B08PP48979";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "7f4267278ffb039594a5c875ce1c45ca";
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-
-
-<script type="text/javascript">
-amzn_assoc_tracking_id = "bundle860d-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B0B2Q7WD4N";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "33b8a7afd3634b3e4662dffb4586ed0f";
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+ 
 
 ### 8. Handheld Vacuum
 

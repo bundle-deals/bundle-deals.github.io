@@ -30,22 +30,8 @@ Investing in a tech bundle is an excellent way to save money and get all the ess
 
 The Ultimate Gaming Bundle is perfect for hardcore gamers. It includes all the essential equipment needed for a top-notch gaming experience, including a high-end gaming PC, a gaming monitor, a gaming mouse, and [keyboard](https://bundledeals.xyz/best-keyboards), and a gaming chair. This bundle will elevate your gaming experience to a new level.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "bundle86-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B07KXSR99Y";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "23c9705c6eed68820741555ab45f72aa";
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-
-
+ 
+ 
 ### The Mobile Tech Bundle
 
 The Mobile Tech Bundle is designed for those always on-the-go. It includes a [high-end laptop](https://bundledeals.xyz/best-laptop-for-remote-work), a mobile phone, a tablet, and a portable charger. With this bundle, you can work from anywhere and never worry about running out of battery life.

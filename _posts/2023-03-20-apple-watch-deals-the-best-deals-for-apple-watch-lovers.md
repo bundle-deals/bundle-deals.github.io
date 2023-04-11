@@ -29,20 +29,7 @@ Now, let's get into the deals. Here are some of the best Apple Watch deals we ex
 The latest and greatest Apple Watch is sure to be a hot item this Black Friday. We expect to see discounts of up to 20% off on the Series 7, which would be a great deal considering it was just released in 2022.
 
 ![Apple Watch Deals](/assets/images/apple-watch-7-01.jpg "Apple Watch Series 7")
-
-<script type="text/javascript">
-amzn_assoc_tracking_id = "bundle86-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B09NWDXS13";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "aaf9809be2d049e471276a5aa86fa372";
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+ 
 
 ### 2. Apple Watch Series 6
 
@@ -54,23 +41,7 @@ The Apple Watch SE is a more affordable option that still offers many of the sam
 
 ![Apple Watch Deals](/assets/images/apple_watch_se.jpg "Apple Watch SE")
 
-
-
-<script type="text/javascript">
-amzn_assoc_tracking_id = "bundle86-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B09JL61FPN";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "dbd58bd8501eb16ccb61ff03da2860a3";
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-
+ 
 
 ### 4. Apple Watch Series 3
 
@@ -79,22 +50,9 @@ If you're looking for a budget-friendly option, the Apple Watch Series 3 is stil
 ### 5. Accessories
 
 Finally, don't forget about accessories! Black Friday is a great time to stock up on extra watch bands, chargers, and other accessories. We expect to see discounts of up to 50% off on select accessories.
+ 
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "bundle86-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B09JWDZ64S";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "62335127018cff14dbcd76722d5130ff";
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-> **A﻿lso Read: [Best Gaming Chairs for Ultimate Comfort and Gaming Experience](https://bundledeals.xyz/best-gaming-chairs-for-ultimate-comfort-and-gaming-experience/)**
+> **Also Read: [Best Gaming Chairs for Ultimate Comfort and Gaming Experience](https://bundledeals.xyz/best-gaming-chairs-for-ultimate-comfort-and-gaming-experience/)**
 
 ## Conclusion
 

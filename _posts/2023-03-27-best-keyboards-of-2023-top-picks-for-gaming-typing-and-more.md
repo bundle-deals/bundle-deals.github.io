@@ -37,59 +37,18 @@ Our team of experts used each keyboard for an extended period, typing on them an
 ![Best Keyboards of 2023](/assets/images/logitech-g915-tkl-featured.webp "Logitech G915 TKL")
 
 If you’re a gamer looking for a high-performance keyboard, the Logitech G915 TKL Tenkeyless Lightspeed Wireless RGB Mechanical Gaming Keyboard is our top pick. This keyboard features low-profile GL mechanical switches, delivering a smooth, tactile typing experience. It also boasts customizable RGB lighting and programmable macro keys, making it a great choice for competitive gamers.
-
-<script type="text/javascript">
-amzn_assoc_tracking_id = "bundle86-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B08KTPST1R";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "7eb9c70c40539c08a24e82116ccbf840";
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
+ 
 ### 2. Corsair K100 RGB Optical-Mechanical Gaming Keyboard
 
 ![Best Keyboards of 2023](/assets/images/corsair-k100-rgb-optical.jpg "Corsair K100 RGB")
 
 The Corsair K100 RGB Optical-Mechanical Gaming Keyboard is another excellent option for gamers. It features Corsair’s new OPX optical-mechanical switches, delivering lightning-fast response times. It also boasts per-key RGB lighting, six programmable macro keys, and dedicated media controls.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "bundle86-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B08WCB916J";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "ef2573981697d5f08307c7b28480c466";
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
+  
 ### 3. Ducky One 2 Mini RGB Mechanical Keyboard
 
 If you’re looking for a compact keyboard that’s great for both gaming and typing, the Ducky One 2 Mini RGB Mechanical Keyboard is an excellent choice. It features Cherry MX RGB switches, delivering a smooth, responsive typing experience. It also boasts customizable RGB lighting and a compact, 60% design that’s perfect for small desks and on-the-go typing.
-
-<script type="text/javascript">
-amzn_assoc_tracking_id = "bundle86-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B07SYJ6S5F";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "a661a43bf43e5cb4f3236e26a1debf33";
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
+ 
 ### 4. Das Keyboard Model S Professional
 
 ![Best Keyboards of 2023](/assets/images/das.jpg "Das Keyboard Model S")
@@ -106,21 +65,8 @@ The Das Keyboard Model S Professional is a great option for typists looking for 
 
 If you’re someone who suffers from wrist pain or discomfort while typing, the Microsoft Sculpt Ergonomic Keyboard is a great option. It features a split-key design and a cushioned palm rest, delivering a comfortable typing experience. It also boasts customizable hotkeys and compatibility with both Windows and Mac operating systems.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "bundle86-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B00DUV01SC";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "76cfdf10aa7c14d5dfccb901c3a1c2b0";
-</script>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-## Conclusion
+ 
+ ## Conclusion
 
 When it comes to finding the best keyboard, it all comes down to your needs and preferences. Whether you’re a gamer, typist, or someone who just wants a comfortable typing experience, there’s a keyboard out there for you.
 
