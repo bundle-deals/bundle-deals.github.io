@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: Best-Power-Banks
+permalink: best-power-banks
 title: Best Power Banks of 2023 to Keep Your Devices Charged On-the-Go
 image: /assets/images/best-power-banks.webp
 categories:
