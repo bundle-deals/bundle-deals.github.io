@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: ""
+permalink: " best-travel-bundles"
 title: How to Score the Best Travel Bundles for Your Next Trip
 image: /assets/images/best-travel-bundles.webp
 categories:
