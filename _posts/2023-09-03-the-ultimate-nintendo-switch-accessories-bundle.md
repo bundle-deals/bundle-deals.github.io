@@ -62,6 +62,14 @@ Keep your Pro Controller ready for action with the Nintendo Switch Pro Controlle
 
 
 
+
+
+> **R﻿elated:  [Tech Bundles for Gamers and Techies](https://bundledeals.xyz/the-top-5-tech-bundles-for-gamers-and-techies)**
+
+
+
+
+
 ### **HORI Nintendo Switch Split Pad Pro**
 
 For gamers who prefer a more substantial grip and larger buttons, the HORI Nintendo Switch Split Pad Pro is an excellent choice. These ergonomic controllers provide a comfortable grip for longer gaming sessions. Explore options on the [official HORI website](https://stores.horiusa.com/switch-split-pad-pro-black/) with prices starting at **$49.99**.
