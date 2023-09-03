@@ -21,17 +21,13 @@ The Classic Bundle includes a desk, chair, lamp, and filing cabinet. The desk is
 
 ### **The Tech-Savvy Bundle**
 
-If you're a tech enthusiast, the Tech-Savvy Bundle is perfect for you. It includes a standing desk, [ergonomic chair](https://bundledeals.xyz/best-gaming-chairs-for-ultimate-comfort-and-gaming-experience/), monitor arm, and keyboard tray. The standing desk can be adjusted to your desired height, allowing you to switch between sitting and standing throughout the day. The ergonomic chair provides excellent support for your back and neck, reducing the risk of strain and injury. The monitor arm and keyboard tray allow you to position your screen and keyboard at the optimal height and angle for your comfort.
+If you're a tech enthusiast, the Tech-Savvy Bundle is perfect for you. It includes a standing desk, [ergonomic chair](https://bundledeals.xyz/best-gaming-chairs-for-ultimate-comfort-and-gaming-experience/), monitor arm, and [keyboard ](https://bundledeals.xyz/best-keyboards)tray. The standing desk can be adjusted to your desired height, allowing you to switch between sitting and standing throughout the day. The ergonomic chair provides excellent support for your back and neck, reducing the risk of strain and injury. The monitor arm and keyboard tray allow you to position your screen and keyboard at the optimal height and angle for your comfort.
 
 > **R﻿elated: [The Top 5 Tech Bundles for Gamers and Techies](https://bundledeals.xyz/the-top-5-tech-bundles-for-gamers-and-techies)**
 
 ### **The Minimalist Bundle**
 
 The Minimalist Bundle is ideal for those who prefer a clean and clutter-free workspace. It includes a simple desk, chair, and lamp. The desk is sleek and modern, with a minimalist design that fits seamlessly into any room. The chair is comfortable and supportive, with a streamlined design that complements the desk. The lamp provides just the right amount of light for your workspace, without taking up too much space.
-
-
-
-
 
 ![The Minimalist Bundle](/assets/images/home-office-bundles.webp)
 
